@@ -1,0 +1,4 @@
+#Wed Sep 11 12:23:43 BRT 2019
+base.0=C\:\\Users\\cleve\\Downloads\\flutterApp-master\\APP_BuscarFilmes-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
